@@ -1,0 +1,174 @@
+Berikut adalah rencana belajar spesifik yang dibagi berdasarkan kuartal, dari memulai dasar coding hingga mencapai tujuan membuka perusahaan berbasis blockchain:
+
+Kuartal 4 Tahun 2024 (Oktober-Desember 2024): Belajar Dasar Coding
+
+1. Oktober: HTML
+
+Fokus: Belajar struktur dasar web dengan HTML.
+
+Target: Memahami elemen-elemen HTML, semantic tags, form, dan table.
+
+Latihan: Buat halaman web statis sederhana.
+
+
+
+2. November: CSS
+
+Fokus: Mempelajari cara mendesain halaman web.
+
+Target: Pahami penggunaan selectors, box model, layout (grid, flexbox), dan responsive design.
+
+Latihan: Buat beberapa halaman web yang berbeda dengan desain responsive.
+
+
+
+3. Desember: JavaScript (Dasar)
+
+Fokus: Belajar JavaScript untuk menambahkan interaktivitas pada halaman web.
+
+Target: Memahami variabel, fungsi, loop, events, dan DOM manipulation.
+
+Latihan: Buat halaman web interaktif (misalnya, menambahkan form dengan validasi sederhana).
+
+
+
+
+Kuartal 1 Tahun 2025 (Januari-Maret 2025): Mendalami JavaScript & Memulai Pengembangan Web
+
+1. Januari: JavaScript Lanjutan
+
+Fokus: Memperdalam pemahaman tentang JavaScript.
+
+Target: Pahami async programming (promises, async/await), API calls, dan error handling.
+
+Latihan: Buat aplikasi web sederhana yang memanfaatkan API eksternal.
+
+
+
+2. Februari: Framework Front-End (React.js atau Vue.js)
+
+Fokus: Mempelajari salah satu framework front-end untuk membangun aplikasi lebih dinamis.
+
+Target: Menguasai dasar-dasar React.js atau Vue.js, seperti components, state, props, dan lifecycle methods.
+
+Latihan: Buat aplikasi kecil seperti to-do list atau aplikasi pencarian data menggunakan API.
+
+
+
+3. Maret: Versi Kontrol dan Kolaborasi (Git)
+
+Fokus: Belajar menggunakan Git untuk version control dan kolaborasi.
+
+Target: Memahami commit, branching, merging, dan berkolaborasi melalui GitHub.
+
+Latihan: Mulai buat proyek web yang lebih besar dan simpan di repository Git.
+
+
+
+
+Kuartal 2 Tahun 2025 (April-Juni 2025): Smart Contract Development
+
+1. April: Belajar Solidity
+
+Fokus: Memulai pemrograman smart contract menggunakan Solidity.
+
+Target: Mengerti sintaks dasar Solidity, fungsi, dan variabel.
+
+Latihan: Buat smart contract sederhana untuk mentransfer token antar pengguna.
+
+
+
+2. Mei: Membangun dan Deploy Smart Contracts
+
+Fokus: Memahami bagaimana smart contracts di-deploy dan berinteraksi dengan blockchain.
+
+Target: Pelajari tools seperti Remix IDE, Truffle, dan Ganache.
+
+Latihan: Deploy smart contract di testnet dan pelajari cara menghubungkannya dengan aplikasi.
+
+
+
+3. Juni: Keamanan Smart Contracts
+
+Fokus: Pelajari aspek keamanan smart contract.
+
+Target: Pahami potensi serangan seperti reentrancy dan overflow, serta cara mencegahnya.
+
+Latihan: Audit smart contract buatanmu sendiri dan perbaiki jika ada celah keamanan.
+
+
+
+
+Kuartal 3 Tahun 2025 (Juli-September 2025): dApp Development
+
+1. Juli: Integrasi Front-End dengan Smart Contracts
+
+Fokus: Pelajari cara menghubungkan aplikasi web dengan blockchain melalui web3.js atau ethers.js.
+
+Target: Menghubungkan smart contract dengan antarmuka pengguna.
+
+Latihan: Buat dApp sederhana yang memungkinkan pengguna berinteraksi dengan smart contract.
+
+
+
+2. Agustus: Belajar Backend dan Full-Stack dApp
+
+Fokus: Pelajari bagaimana membuat backend untuk dApp jika diperlukan (menggunakan Node.js atau frameworks lain).
+
+Target: Buat dApp full-stack yang memungkinkan pengguna berinteraksi dengan blockchain dan backend.
+
+Latihan: Buat dApp yang lebih kompleks, seperti dompet sederhana atau platform voting.
+
+
+
+3. September: Menguji dApp di Testnet
+
+Fokus: Uji dApp di testnet (Ethereum Rinkeby atau lainnya).
+
+Target: Memahami proses pengujian, debugging, dan deployment di testnet.
+
+Latihan: Deploy dan uji dApp di testnet, dan pastikan berfungsi dengan baik.
+
+
+
+
+Kuartal 4 Tahun 2025 (Oktober-Desember 2025): Portfolio & Job Preparation
+
+1. Oktober: Membangun Portfolio Blockchain
+
+Fokus: Buat beberapa proyek dApp untuk ditampilkan di portfolio.
+
+Target: Memiliki 3-5 proyek solid di GitHub yang bisa digunakan sebagai bukti kemampuanmu.
+
+Latihan: Buat portfolio online yang menampilkan proyek dan pengalamanmu.
+
+
+
+2. November: Networking dan Belajar Soft Skills
+
+Fokus: Terlibat dalam komunitas blockchain dan memperluas jaringan.
+
+Target: Ikuti hackathon, seminar blockchain, atau konferensi.
+
+Latihan: Bergabung dengan proyek open-source untuk meningkatkan keterampilan kolaborasi.
+
+
+
+3. Desember: Mencari Pekerjaan
+
+Fokus: Mencari lowongan kerja untuk Smart Contract Developer atau dApp Developer.
+
+Target: Kirim aplikasi ke berbagai perusahaan atau proyek blockchain.
+
+Latihan: Latihan wawancara teknis dan non-teknis.
+
+
+
+
+Kuartal 1 Tahun 2026 (Januari-Maret 2026): Mendapatkan Pengalaman Kerja
+
+1. Januari-Maret: Bekerja di bidang blockchain atau freelance sebagai Smart Contract Developer atau dApp Developer.
+
+Fokus: Membangun pengalaman profesional dan memperdalam keterampilan.
+
+
